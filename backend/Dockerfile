@@ -1,4 +1,4 @@
-# CONTRUCCION
+# CONTRUCCION DE IMAGEN
 FROM rust:1.81-slim as builder
 WORKDIR /app
 COPY Cargo.toml Cargo.lock ./

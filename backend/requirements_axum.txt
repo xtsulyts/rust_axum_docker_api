@@ -1,0 +1,21 @@
+src/
+├── main.rs                 # Punto de entrada (levanta el server)
+├── lib.rs                  # Opcional, para compartir módulos
+├── routes/                 # 👈 Como tus "vistas" o controladores
+│   ├── mod.rs              # Exporta los módulos de rutas
+│   ├── health.rs           # Ej: /health
+│   └── users.rs            # Ej: /users
+├── handlers/               # 👈 La lógica de negocio (lo que va tras las rutas)
+│   ├── mod.rs
+│   ├── health_handler.rs
+│   └── user_handler.rs
+├── models/                 # 👈 Tus estructuras de datos (como modelos)
+│   ├── mod.rs
+│   ├── user.rs
+│   └── error.rs            # Modelos de error personalizados
+├── extractors/             # 👈 Extractores personalizados (opcional)
+│   └── auth.rs
+├── middleware/             # 👈 Middleware personalizado
+│   └── logging.rs
+└── config/                 # Configuración (DB, puertos, etc.)
+    └── mod.rs

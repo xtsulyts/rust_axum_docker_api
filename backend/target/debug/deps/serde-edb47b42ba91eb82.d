@@ -1,0 +1,14 @@
+/home/xtsulyts/Escritorio/rust_axum_docker_api/backend/target/debug/deps/serde-edb47b42ba91eb82.d: /home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/xtsulyts/Escritorio/rust_axum_docker_api/backend/target/debug/build/serde-30dfd4c93d7ae6f7/out/private.rs
+
+/home/xtsulyts/Escritorio/rust_axum_docker_api/backend/target/debug/deps/libserde-edb47b42ba91eb82.rlib: /home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/xtsulyts/Escritorio/rust_axum_docker_api/backend/target/debug/build/serde-30dfd4c93d7ae6f7/out/private.rs
+
+/home/xtsulyts/Escritorio/rust_axum_docker_api/backend/target/debug/deps/libserde-edb47b42ba91eb82.rmeta: /home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /home/xtsulyts/Escritorio/rust_axum_docker_api/backend/target/debug/build/serde-30dfd4c93d7ae6f7/out/private.rs
+
+/home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/xtsulyts/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/home/xtsulyts/Escritorio/rust_axum_docker_api/backend/target/debug/build/serde-30dfd4c93d7ae6f7/out/private.rs:
+
+# env-dep:OUT_DIR=/home/xtsulyts/Escritorio/rust_axum_docker_api/backend/target/debug/build/serde-30dfd4c93d7ae6f7/out

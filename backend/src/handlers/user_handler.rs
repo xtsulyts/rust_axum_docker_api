@@ -44,7 +44,7 @@ pub async fn create_user(
     Json(user)
 }
 
-// Función para crear la DB simulada (la usaremos en main)
+// Función para crear la DB simulada (la usaremos en main.)
 pub fn create_db() -> UserDb {
     let mut users = HashMap::new();
     users.insert(1, User {

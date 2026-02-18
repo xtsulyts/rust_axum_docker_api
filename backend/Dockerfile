@@ -1,5 +1,5 @@
 # CONTRUCCION DE IMAGEN
-FROM rust:1.81-slim as builder
+FROM rust:latest as builder
 WORKDIR /app
 COPY Cargo.toml Cargo.lock ./
 RUN mkdir src && echo "fn main() {}" > src/main.rs

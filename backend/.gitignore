@@ -1,0 +1,4 @@
+# Archivos generados por Rust
+/target/
+**/*.rs.bk
+Cargo.lock  # (para bibliotecas, no para binarios)

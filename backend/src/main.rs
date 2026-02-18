@@ -11,7 +11,7 @@ use crate::routes::users::users_routes;
 
 #[tokio::main]
 async fn main() {
-    // Crear "base de datos" compartida
+    // Crear "base de datos" compartida. pendiente conectar imagen postgres
     let db = create_db();
 
     // Construir el router con todas las rutas

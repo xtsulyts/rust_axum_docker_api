@@ -21,6 +21,6 @@ jobs:
       - name: Build and Push Rust API
         run: |
           echo "=== CONSTRUYENDO RUST API ==="
-          docker build -t ${{ secrets.DOCKER_USERNAME }}/${{ github.event.repository.name }}:latest .
+          docker build -t ${{ secrets.DOCKER_USERNAME }}/${{ github.event.repository.name }}:latest -f backend/Dockerfile backend/
           docker push ${{ secrets.DOCKER_USERNAME }}/${{ github.event.repository.name }}:latest
           echo "✅ Rust API subida a: ${{ secrets.DOCKER_USERNAME }}/${{ github.event.repository.name }}:latest"
